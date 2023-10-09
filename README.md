@@ -10,7 +10,6 @@ Tela Registo
 Tela Login
 ![Login](https://github.com/ThiagoNome/ProjetoUC16_Final/assets/104836232/421284e1-4602-4f8b-bced-669e0e1f9a2d)
 
-
 Tela Dashboard
 ![Dashboard](https://github.com/ThiagoNome/ProjetoUC16_Final/assets/104836232/34423868-a664-4521-a8e3-ac3c9fff2de6)
 
